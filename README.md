@@ -5,3 +5,5 @@
     - build-maven
     - build-gradle
     - build-springboot
+
+### [2. gyakorlat: CI](https://github.com/szatmari/devops-ci)
