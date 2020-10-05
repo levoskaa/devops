@@ -7,3 +7,5 @@
     - build-springboot
 
 ### [2. gyakorlat: CI](https://github.com/szatmari/devops-ci)
+
+### [3. gyakorlat: Virtualizáció](https://github.com/szatmari/devops-virtualization)
