@@ -9,3 +9,5 @@
 ### [2. gyakorlat: CI](https://github.com/szatmari/devops-ci)
 
 ### [3. gyakorlat: Virtualizáció](https://github.com/szatmari/devops-virtualization)
+
+### [4. gyakorlat: Konténerizáció](https://github.com/szatmari/devops-docker)
