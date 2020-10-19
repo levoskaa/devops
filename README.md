@@ -11,3 +11,5 @@
 ### [3. gyakorlat: Virtualizáció](https://github.com/szatmari/devops-virtualization)
 
 ### [4. gyakorlat: Konténerizáció](https://github.com/szatmari/devops-docker)
+
+### [5. gyakorlat: Kubernetes, Cloud, AWS](https://github.com/szatmari/devops-cloud)
