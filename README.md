@@ -13,3 +13,7 @@
 ### [4. gyakorlat: Konténerizáció](https://github.com/szatmari/devops-docker)
 
 ### [5. gyakorlat: Kubernetes, Cloud, AWS](https://github.com/szatmari/devops-cloud)
+
+### [6. gyakorlat: Microservices](https://github.com/szatmari/devops-microservices)
+
+### [7. gyakorlat: Monitoring](https://github.com/szatmari/devops-monitoring)
