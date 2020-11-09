@@ -17,3 +17,5 @@
 ### [6. gyakorlat: Microservices](https://github.com/szatmari/devops-microservices)
 
 ### [7. gyakorlat: Monitoring](https://github.com/szatmari/devops-monitoring)
+
+### [8. gyakorlat: Backup](https://github.com/szatmari/devops-backup)
